@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VeronicaSetterhall]]></title>
+        <description><![CDATA[VeronicaSetterhall]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 09:13:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my online portfolio]]></title>
+            <description><![CDATA[<article><h1>Welcome to my online portfolio</h1><p>I'm a Swedish copywriter & SEO technician</p></article>]]></description>
+            <link>undefinedwelcome-to-my-online-portfolio/index.html</link>
+            <guid isPermaLink="false">8134f79e-3ea5-4093-a256-1dce639b3357</guid>
+            <pubDate>Wed, 06 Apr 2016 09:13:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
